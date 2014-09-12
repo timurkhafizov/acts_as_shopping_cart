@@ -1,4 +1,5 @@
 require 'money-rails'
+require 'monetize'
 require 'acts_as_shopping_cart/version'
 require 'active_record/acts/shopping_cart'
 require 'active_record/acts/shopping_cart_item'
